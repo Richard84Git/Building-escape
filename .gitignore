@@ -1,0 +1,15 @@
+# unreal files
+###################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuiltData.uasset
+BuildingEscape/Content/StarterContent/
+
+# VS files
+*.VC.db
+*.suo
+*/.vs/
+
