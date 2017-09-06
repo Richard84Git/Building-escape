@@ -1,16 +1,18 @@
 # unreal files
-###################
+
 */Build
 */Binaries
 */DerivedDataCache
 */Intermediate
 */Saved
-*_BuiltData.uasset
-BuildingEscape/Content/StarterContent/
+
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
 
 # VS files
 *.VC.db
 *.suo
 */.vs/
 
-Content/StarterContent/
+Content/StarterContent/Textures/
+Content/StarterContent/HDRI/
